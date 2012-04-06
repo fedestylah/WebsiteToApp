@@ -1,1 +1,4 @@
-test
+Description:
+This is an Android application that embed a website (mobile existing version). 
+This application could be customized for any website.
+It uses webview class to embed the website and some controls to navigate into it.
